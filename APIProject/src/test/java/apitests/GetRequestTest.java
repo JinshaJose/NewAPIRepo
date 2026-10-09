@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 
-public class GetRequest {
+public class GetRequestTest {
 	
 		@Test
 		public void getTodo() {
